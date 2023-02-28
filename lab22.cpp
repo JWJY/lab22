@@ -24,7 +24,7 @@ int main(){
 	else hero.equip(&armor);
 
 	
-	Unit mons("Monster","Kraken");
+	Unit mons("Monster","Golem");
 	
 	int turn_count = 1;
 	char player_action = '\0',monster_action = '\0';
